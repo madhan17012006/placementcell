@@ -96,15 +96,15 @@ if($registered)
       <input type="number" class="form-control" id="studid" placeholder="Enter your student id" name="studid">
     </div>
     <div class="form-group">
-      <label for="cgpa">Course Name:</label>
+      <label for="cgpa">CGPA:</label>
       <input type="float" class="form-control" id="cgpa" placeholder="Enter your cgpa percentage" name="cgpa">
     </div>
     <div class="form-group">
-      <label for="credit">Branch Name:</label>
+      <label for="credit">CREDIT:</label>
       <input type="number" class="form-control" id="credit" placeholder="Enter your credit" name="credit">
     </div>
     <div class="form-group">
-      <label for="attper">Branch Name:</label>
+      <label for="attper">Attendence percentage:</label>
       <input type="float" class="form-control" id="attper" placeholder="Enter your attendence percentage" name="attper">
     </div>
     <button type="reset" class="btn btn-danger btn-lg" value="reset" align="center">RESET</button>
